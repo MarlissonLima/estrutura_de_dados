@@ -1,0 +1,7 @@
+CRUD = Create Read Update Delete
+
+Atividade:
+-Considere que o aluno possui um livro favorito, que, por simplificação, possui um titulo,numero de paginas e preço.
+-codifique a struct de Livro e adapte a struct de aluno
+-crie as funções de Criação(C),Delete(D) e de Impressao para a Struct Aluno e Livro.
+-na função de Delete,garanta que o ponteiro é atribuido como NULL depois da desalocação
