@@ -2,4 +2,4 @@
 *.exe
 
 #ignore a pasta .vscode
-.vscode
+/.vscode
