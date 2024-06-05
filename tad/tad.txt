@@ -1,0 +1,19 @@
+Implementando um TAD:
+
+TAD = Tipo Abstrato de Dado
+-basicamente um tipo de dado que voce cria, ou seja, nao esta definido como padrao(int,float,bool,...)
+
+
+Crie um TAD de um vetor de float:
+    -o vetor tem uma capacidade maxima(numero maximo de elementos)
+    -o vetor informa seu tamanho(quantidade de elementos armazenados atualmente)
+
+
+Funções:
+    -size(tad vector):retorna o tamanho do vetor(numero atual de elementos inseridos)
+    -capacity(tad vector):retorna a capacidade do vetor(numero maximo de elementos)
+    -at(tad vector,int index):retorna o elemento do indice "index" com bound-checked(verifica os limites do vetor)
+    -get(tad vector,int index):retorna o elemento do indice "index"
+    -append(tad vector,float val):adiciona o valor "val" no final do vetor.Lança um erro se o vetor estiver cheio
+    -set(tad vector,int index,float val):atribui o valor "val" no indice "index" do vetor de tipo "tad".Lança um erro se o indice for invalido 
+    -print(tar vector):imprime todos os elementos do vetor
