@@ -1,6 +1,9 @@
 #ignore os .exe
 *.exe
 
+#ignora os .o
+*.o
+
 #ignore a pasta .vscode
 /.vscode
 
