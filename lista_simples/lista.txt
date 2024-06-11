@@ -1,0 +1,11 @@
+O que é uma lista:
+    relação finita de itens, todos eles contidos dentro de um mesmo tema
+
+
+Tipos de Lista:
+
+-Lista convencional:pode ter elementos inseridos ou removidos de qualquer lugar dela
+
+-Fila:estrutura do tipo FIFO(First In First Out)
+
+-Pilha: estrutura do tipo LIFO(Last In First out)

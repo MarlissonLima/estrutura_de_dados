@@ -1,0 +1,20 @@
+Quando usar uma lista simples:
+    -Listas pequenas
+    -Inserção e remoção apenas no final da lista
+    -Tamanho maximo da lista bem definido
+    -A busca é a operação mais frequente
+
+
+Tipos de acesso aos elementos:
+
+    -Acesso sequencial(ou linear):os elementos sao armazenados de forma consecutiva na memoria(como em um array).
+A posição de um elemento pode ser facilmente obtida a partir do inicio da lista
+
+    -Acesso encadeado: cada elemento pode estar em uma area distinda da memoria,nao necessariamente consecutivas.
+É necessario que cada elemento da lista armazene,alem da sua informação, o endereço de ememoria onde se encontra o proximo
+elemento.Para acessar um elemento,é preciso percorrer todos os seus elementos antecessores na lista
+
+
+
+
+
